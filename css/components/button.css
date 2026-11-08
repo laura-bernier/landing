@@ -1,0 +1,15 @@
+.btn-black {
+    background-color: rgba(13, 13, 13, 0.8);
+    padding: 10px 20px;
+    border-radius: 4px;
+    color : peru;
+    font-weight: bold;
+}
+
+.btn-orange {
+    background-color: rgba(233, 233, 233, 0.8);
+    padding: 5% 20px;
+    border-radius: 4px;
+    color : peru;
+    font-weight: bold;
+}
